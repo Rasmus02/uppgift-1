@@ -1,23 +1,19 @@
+  
 <!DOCTYPE html>
 <html lang="sv">
-
-<head>
-	<meta charset="utf-8">
-	<title>Uppgift 1</title>
-</head>
-
-<body>
-
-	<hl> Rasmus Thorvaldsson</hl>
-	<p> Jag gillar att skruva med bilar och vara med kompisar</p>
-	<p>Mitt intresse för bilar fick jag när jag var 15 och skaffade epa</p>
-	<h2>Fordonsprogrammet</h2>
-	<p>Jag valde detta programmet för att jag gillar att hålla på med bilar och även att jobba med kroppen så jag inte behöver sitta still</p>
-	<p> I denna kursen hoppas jag att jag får lära mig någonting jag har nytta av senare</p>
-	<a href=
-		<img src="k" alt="En bild på kungsmadskolan"
-	</a>
-</body>
-<hl> Rasmus Thorvaldsson </hl>
-
-<p>Min första sida </p>
+	<head>
+		<meta charset="utf-8">
+		<title>Uppgift 1</title>
+		<link href="uppgift2.css" rel="stylesheet">
+	</head>
+	<body>
+		
+		<h1>Rasmus Thorvaldsson</h1>
+			<p>Jag är 18 år gammal och bor i en liten by som heter Bästerna</p>
+			<p>Jag gillar att krabba med fordon av olika slag och att vara med kompisar.</p>
+		<h2>Fordonsprogrammet</h2>
+			<p class="text">Jag gillar att lösa saker och felsöka vad problemet kan vara,jag gillar utmaningar och mest gillar jag att se resultat.</p>
+			<p class="text">Det ska bli roligt att lära sig och jag hoppas att jag kan ha nytta av det framöver.</p>
+		<img src=https://www.vaxjo.se/images/18.3533fa35166534fbf7c9f319/1539680971831/Kungsmadskolan%20nya%20053.jpg
+	</body>
+</html>
