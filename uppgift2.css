@@ -1,0 +1,25 @@
+
+
+body{
+	background-color:yellow;
+	
+}
+h1{
+	font-family:arial;
+	font-size:22px;
+}
+h2{
+	background-color:pink;
+	border-radius:10px;
+	color:white;
+}
+p.text{
+	background-color:red;
+	border-radius:8px;
+	color:white;
+}
+.container{ 
+display: grid;
+grid-template-columns:400px 400px;
+grid-template-rows:auto;
+grid-template-areas:
